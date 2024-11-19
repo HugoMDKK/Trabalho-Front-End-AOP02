@@ -1,0 +1,205 @@
+/* content.css: Estilos para as páginas de receita */
+.recipe-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.recipe-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.recipe-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.ingredients, .instructions {
+    width: 48%;
+}
+
+/* Estilo para centralizar um h1*/
+.titulo-principal {
+    text-align: center;
+}
+
+/* Paragrafo*/
+
+.paragrafo-content {
+    font-size: 120%;
+}
+
+/* Estilo para centralizar um h2*/
+.titulo-secundario {
+    text-align: center;
+}
+
+
+/*Preparo*/
+
+#recipe-container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#recipe-title {
+    color: #4CAF50;
+    font-size: 2em;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#recipe-description {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #666;
+}
+
+#ingredients-section, #instructions-section {
+    margin-top: 20px;
+}
+
+#ingredients-title, #instructions-title, #tips-title {
+    color: #4CAF50;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#ingredients-list, #instructions-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+    #ingredients-list li, #instructions-list li {
+        background: #f9f9f9;
+        padding: 8px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+        font-size: 1em;
+    }
+
+#tips-section {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #e8f5e9;
+    border-left: 5px solid #4CAF50;
+    border-radius: 5px;
+}
+
+    #tips-section p {
+        margin: 5px 0;
+        color: #333;
+    }
+
+#tips-title {
+    font-size: 1.3em;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+/*Para as imagens*/
+
+/* Configurações gerais do container */
+.image-links-container {
+    position: relative;
+    width: 100%;
+    height: 250px; /* Altura padrão do container */
+    margin-bottom: 20px; /* Espaço entre as seções */
+    overflow: hidden; /* Esconde partes que ultrapassam */
+}
+
+/* Imagem de fundo */
+.image-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: 1; /* Coloca atrás do conteúdo */
+}
+
+/* Classes específicas para diferentes conteúdos */
+.image-section-content-1 .image-background {
+    background-image: url('/images/cogumelo.png'); /* Imagem específica para conteúdo 1 */
+}
+
+.image-section-content-2 .image-background {
+    background-image: url('/images/LomboDePorcoRecheado.png'); /* Imagem específica para conteúdo 2 */
+}
+
+.image-section-content-3 .image-background {
+    background-image: url('/images/SanduicheDeBife.png'); /* Imagem específica para conteúdo 3 */
+}
+
+/* Links à esquerda e à direita */
+.left-half, .right-half {
+    position: absolute;
+    top: 0;
+    width: 50%; /* Cada link ocupa metade do container */
+    height: 100%; /* Ocupa toda a altura */
+    display: flex;
+    align-items: center; /* Centraliza verticalmente o texto */
+    justify-content: center; /* Centraliza horizontalmente o texto */
+    color: white; /* Cor do texto */
+    font-size: 20px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+    text-decoration: none; /* Remove o sublinhado */
+    z-index: 2; /* Fica acima da imagem */
+    background: rgba(0, 0, 0, 0.5); /* Fundo escuro semitransparente */
+    transition: background 0.3s ease;
+}
+
+/* Link da metade esquerda */
+.left-half {
+    left: 0;
+}
+
+/* Link da metade direita */
+.right-half {
+    right: 0;
+}
+
+    /* Hover nos links */
+    .left-half:hover, .right-half:hover {
+        background: rgba(255, 255, 255, 0.8); /* Fundo claro no hover */
+        color: #333; /* Texto escuro no hover */
+    }
+
+/* Estilos de descrição */
+.description {
+    font-size: 18px; /* Tamanho do texto */
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .image-links-container {
+        height: 200px; /* Altura reduzida em telas menores */
+    }
+
+    .left-half, .right-half {
+        font-size: 16px; /* Texto menor */
+    }
+}
+
+
+
+
+

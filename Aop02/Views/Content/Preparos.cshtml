@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Preparos";
+}
+
+<h1>Preparos</h1>
+<!-- Replicar esse bloco para outros ingredientes -->
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="image-links-container">
+                <div class="image-section-content-1">
+                    <!-- Descrição do Preparo Cogumelo (à esquerda) -->
+                    <a asp-controller="Content" asp-action="PreparosCogumelos" class="left-half">
+                        <span class="description">Preparo Cogumelo</span>
+                    </a>
+
+                    <!-- Descrição da Receita Cogumelo (à direita) -->
+                    <a asp-controller="Content" asp-action="ReceitasCogumelos" class="right-half">
+                        <span class="description">Receita Cogumelo</span>
+                    </a>
+
+                    <!-- A imagem de fundo -->
+                    <div class="image-background"></div>
+                </div>
+            </div>
+            <br />
+            <!-- Segunda Imagem-->
+            <div class="image-links-container">
+                <div class="image-section-content-2">
+                    <!-- Descrição do Preparo Cogumelo (à esquerda) -->
+                    <a asp-controller="Content" asp-action="PreparosLombo" class="left-half">
+                        <span class="description">Preparo Lombo Especial</span>
+                    </a>
+
+                    <!-- Descrição da Receita Cogumelo (à direita) -->
+                    <a asp-controller="Content" asp-action="ReceitasLombo" class="right-half">
+                        <span class="description">Receita de Lombo Especial</span>
+                    </a>
+
+                    <!-- A imagem de fundo -->
+                    <div class="image-background"></div>
+                </div>
+            </div>
+            <br />
+            <!-- Terceira Imagem-->
+            <div class="image-links-container">
+                <div class="image-section-content-3">
+                    <!-- Descrição do Preparo Cogumelo (à esquerda) -->
+                    <a asp-controller="Content" asp-action="PreparosSanduiche" class="left-half">
+                        <span class="description">Preparo Lombo Especial</span>
+                    </a>
+
+                    <!-- Descrição da Receita Cogumelo (à direita) -->
+                    <a asp-controller="Content" asp-action="ReceitasSanduiche" class="right-half">
+                        <span class="description">Receita de Lombo Especial</span>
+                    </a>
+
+                    <!-- A imagem de fundo -->
+                    <div class="image-background"></div>
+                </div>
+            </div>
+        </div>
+    </div>

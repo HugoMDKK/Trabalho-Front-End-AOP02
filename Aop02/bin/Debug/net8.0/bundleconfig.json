@@ -1,0 +1,15 @@
+[
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/layout.css",
+      "wwwroot/css/navbar.css",
+      "wwwroot/css/home.css",
+      "wwwroot/css/content.css",
+      "wwwroot/css/contact.css"
+    ],
+    "minify": {
+      "enabled": true
+    }
+  }
+]

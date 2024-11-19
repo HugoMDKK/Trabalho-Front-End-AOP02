@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\sobresanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\sobresanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\receitaslombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\receitaslombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\preparos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\preparos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\receitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\receitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\preparossanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\preparossanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\preparoslombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\preparoslombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\preparoscogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\preparoscogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\receitascogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\receitascogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\content.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\content.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\site.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\site.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\receitassanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\receitassanduiche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\sobrecogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\sobrecogumelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\views\\content\\sobrelombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\views\\content\\sobrelombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|d:\\uvv\\programa\u00E7\u00E3o web\\aop02\\aop02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B7AC3D1-A424-4A09-BF81-0D125633CA4A}|Aop02\\Aop02.csproj|solutionrelative:aop02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T14:03:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactFormModel.cs",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Models\\ContactFormModel.cs",
+              "RelativeDocumentMoniker": "Aop02\\Models\\ContactFormModel.cs",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Models\\ContactFormModel.cs",
+              "RelativeToolTip": "Aop02\\Models\\ContactFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:03:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Aop02\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Aop02\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:45:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\contact.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\contact.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\contact.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\contact.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T12:30:41.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SobreSanduiche.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreSanduiche.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\SobreSanduiche.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreSanduiche.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\SobreSanduiche.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:55:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Aop02\\Controllers\\ContentController.cs",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Aop02\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:45:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aop02\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aop02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:45:09.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:38:51.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReceitasLombo.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasLombo.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\ReceitasLombo.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasLombo.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\ReceitasLombo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:22:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Preparos.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Preparos.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\Preparos.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Preparos.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\Preparos.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T13:14:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Receitas.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Receitas.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\Receitas.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Receitas.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\Receitas.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T16:51:58.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PreparosSanduiche.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosSanduiche.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\PreparosSanduiche.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosSanduiche.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\PreparosSanduiche.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T13:48:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PreparosLombo.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosLombo.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\PreparosLombo.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosLombo.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\PreparosLombo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:06:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PreparosCogumelos.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosCogumelos.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\PreparosCogumelos.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\PreparosCogumelos.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\PreparosCogumelos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:52:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReceitasCogumelos.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasCogumelos.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\ReceitasCogumelos.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasCogumelos.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\ReceitasCogumelos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:22:31.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "content.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\content.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\content.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\content.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\content.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowI0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T11:51:06.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "home.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\home.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\home.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T11:51:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.min.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\site.min.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\site.min.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\site.min.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\site.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T11:37:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "navbar.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\navbar.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\navbar.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\navbar.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\navbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T11:29:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "layout.css",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\layout.css",
+              "RelativeDocumentMoniker": "Aop02\\wwwroot\\css\\layout.css",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\wwwroot\\css\\layout.css",
+              "RelativeToolTip": "Aop02\\wwwroot\\css\\layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T11:50:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:37:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReceitasSanduiche.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasSanduiche.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\ReceitasSanduiche.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\ReceitasSanduiche.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\ReceitasSanduiche.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:22:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sobre.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Sobre.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\Sobre.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\Sobre.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\Sobre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:25:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SobreCogumelos.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreCogumelos.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\SobreCogumelos.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreCogumelos.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\SobreCogumelos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:41:04.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SobreLombo.cshtml",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreLombo.cshtml",
+              "RelativeDocumentMoniker": "Aop02\\Views\\Content\\SobreLombo.cshtml",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\Views\\Content\\SobreLombo.cshtml",
+              "RelativeToolTip": "Aop02\\Views\\Content\\SobreLombo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:19:59.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\appsettings.json",
+              "RelativeDocumentMoniker": "Aop02\\appsettings.json",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\appsettings.json",
+              "RelativeToolTip": "Aop02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:34:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\bundleconfig.json",
+              "RelativeDocumentMoniker": "Aop02\\bundleconfig.json",
+              "ToolTip": "D:\\UVV\\Programa\u00E7\u00E3o Web\\Aop02\\Aop02\\bundleconfig.json",
+              "RelativeToolTip": "Aop02\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:03:09.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

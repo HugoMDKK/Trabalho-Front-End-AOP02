@@ -1,0 +1,74 @@
+/* Imagens na home controle de tamanho*/
+
+/* Container principal */
+.destaque-container {
+    display: flex; /* Itens lado a lado */
+    flex-wrap: wrap; /* Permite que os itens quebrem para uma nova linha em telas menores */
+    gap: 20px; /* Espaço entre os itens */
+    justify-content: center; /* Centraliza os itens na tela */
+    margin-top: 20px;
+}
+
+/* Cada item de destaque */
+.destaque-item {
+    text-align: center; /* Centraliza o texto e a imagem */
+    width: 250px; /* Largura fixa para cada card */
+    margin: 10px; /* Espaçamento entre os cards */
+}
+
+/* Estilo da imagem */
+.imagem-home {
+    width: 100%; /* A imagem ocupa toda a largura do card */
+    height: 180px; /* Altura fixa para uniformidade */
+    object-fit: cover; /* Ajusta o conteúdo sem distorcer */
+    border-radius: 8px; /* Borda arredondada */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+/* Links abaixo de cada imagem */
+.links-container {
+    display: flex; /* Alinha os links horizontalmente */
+    justify-content: space-around; /* Espaço uniforme entre os links */
+    margin-top: 10px;
+}
+
+/* Estilo dos links */
+.link-destaque {
+    text-decoration: none; /* Remove o sublinhado */
+    color: #333; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    background-color: #f8f8f8; /* Fundo leve */
+    padding: 5px 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: all 0.3s ease; /* Animação ao passar o mouse */
+}
+
+    .link-destaque:hover {
+        background-color: #333; /* Fundo ao passar o mouse */
+        color: #fff; /* Texto ao passar o mouse */
+    }
+
+.paragrafo-home {
+    font-size: 120%;
+}
+
+
+
+
+
+
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+    .destaque-container {
+        flex-direction: column; /* Empilha os itens verticalmente */
+        align-items: center; /* Centraliza os itens */
+    }
+
+    .destaque-item {
+        width: 90%; /* Ocupa quase toda a largura da tela */
+    }
+}
+
+
+

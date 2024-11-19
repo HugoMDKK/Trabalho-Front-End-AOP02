@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Blog de Gastronomia";
+}
+
+<h1 class="titulo-principal">Bem-vindo ao Blog de Gastronomia!</h1>
+<p class="paragrafo-home">
+    Explore o incrível universo da gastronomia, onde ingredientes frescos, técnicas inovadoras e sabores únicos se encontram para criar experiências inesquecíveis.
+    Nosso blog é um ponto de encontro para amantes da boa comida, chefs amadores e curiosos que desejam expandir seu repertório culinário.
+    Aqui, você encontrará receitas inspiradoras, dicas úteis, e histórias sobre a origem dos pratos e seus ingredientes.
+</p>
+<h2>Descubra Nossas Categorias</h2>
+
+<p class="paragrafo-home">
+    <strong>Preparos Inovadores:</strong>
+    Dê um toque especial às suas refeições com preparos simples e sofisticados que transformam o trivial em extraordinário.
+    Nessa seção, trazemos receitas práticas, com instruções claras, para que qualquer pessoa possa fazer pratos deliciosos em casa.
+</p>
+<p class="paragrafo-home">
+    <strong>Receitas para Todos os Gostos:</strong>
+    Desde clássicos da culinária mundial até pratos criativos e inusitados, explore uma ampla variedade de receitas que atendem a todos os paladares.
+    Com receitas para vegetarianos, veganos, amantes de carne e muito mais, nossa seção de receitas é para quem ama comer bem.
+</p>
+<p class="paragrafo-home">
+    <strong>Dicas e Truques de Cozinha:</strong>
+    Aprenda técnicas que fazem toda a diferença no resultado final dos pratos.
+    De como escolher o melhor corte de carne a segredos para fazer o risoto perfeito, aqui você encontra truques essenciais para elevar seu nível na cozinha.
+</p>
+<p class="paragrafo-home">
+    <strong>Saúde e Nutrição:</strong>
+    Para quem busca uma alimentação balanceada, trazemos conteúdos sobre o valor nutricional dos alimentos, benefícios para a saúde e receitas que combinam sabor e nutrição.
+   </p>
+
+
+<h2 class="subtitulo-destaque">Conteúdos em Destaque</h2>
+<div class="destaque-container">
+    <!-- Primeiro item -->
+    <div class="destaque-item">
+        <img src="~/images/cogumelo.png" alt="Descrição 1" class="imagem-home">
+        <div class="links-container">
+            <a asp-controller="Content" asp-action="SobreCogumelos" class="link-destaque">Sobre</a>
+            <a asp-controller="Content" asp-action="PreparosCogumelos" class="link-destaque">Preparo</a>
+        </div>
+    </div>
+
+    <!-- Segundo item -->
+    <div class="destaque-item">
+        <img src="~/images/LomboDePorcoRecheado.png" alt="Descrição 2" class="imagem-home">
+        <div class="links-container">
+            <a asp-controller="Content" asp-action="SobreLombo" class="link-destaque">Sobre</a>
+            <a asp-controller="Content" asp-action="PreparosLombo" class="link-destaque">Preparo</a>
+        </div>
+    </div>
+
+    <!-- Terceiro item -->
+    <div class="destaque-item">
+        <img src="~/images/SanduicheDeBife.png" alt="Descrição 3" class="imagem-home">
+        <div class="links-container">
+            <a asp-controller="Content" asp-action="SobreSanduiche" class="link-destaque">Sobre</a>
+            <a asp-controller="Content" asp-action="PreparosSanduiche" class="link-destaque">Preparo</a>
+        </div>
+    </div>
+</div>
